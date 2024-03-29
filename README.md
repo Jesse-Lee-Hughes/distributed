@@ -1,6 +1,16 @@
 # Simple Distributed Architecture POC
 
-![architecture](architecture.png "An optional title")
+## Overview
+
+This project had two objectives:
+
+1. Test the TILT development tool, which I now love.
+2. Build a simple pub/sub model that I can iterate on in the future. 
+
+## System Architecture
+
+![architecture](architecture.png "Publisher Subscriber Model")
+
 
 ## How to run project
 
