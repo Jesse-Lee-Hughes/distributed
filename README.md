@@ -1,6 +1,6 @@
 # Simple Distributed Architecture POC
 
-![architecture](test.png "An optional title")
+![architecture](architecture.png "An optional title")
 
 ## How to run project
 
