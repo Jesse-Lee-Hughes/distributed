@@ -1,5 +1,7 @@
 # Simple Distributed Architecture POC
 
+![architecture](test.png "An optional title")
+
 ## How to run project
 
 install TILT (https://docs.tilt.dev/):
